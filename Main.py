@@ -361,11 +361,11 @@ def main():
     st.markdown("""
     <div style='text-align: center; padding: 20px 0;'>
         <p style='font-size: 16px; color: #666; font-weight: 500;'>
-            Developed and Hosted by <span style='color: #1a73e8; font-weight: 600;'>Larwin J</span> 😎</br>
-            Anonymous
+            Developed and Hosted by <span style='color: #1a73e8; font-weight: 600;'>Anonymous</span> 😎</br>
         </p>
     </div>
     """, unsafe_allow_html=True)
 
 if __name__ == "__main__":
+
     main()
